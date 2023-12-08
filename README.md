@@ -27,12 +27,14 @@ Being a billionaire is a dream of most around us. It’s assumed to be the pinna
 Despite progress and evolution, gender bias remains a tenacious issue which is influencing not only number of woman billionaires but also challenges they face. on this exploration, we analyse the layers of gender bias in the premium club of billionaires, shedding light on the obstacles confronted by the ladies on the course to severe wealth.
 
 ## 1.	The Gender disparity in Billionaire Ranks
+
 # a.	Statistics and Trends
 Note- Data used for analysis has been taken from Billionaires Statistics Dataset (2023) (kaggle.com) This dataset contains statistics on the world's billionaires, including information about their businesses, industries, and personal details. It provides insights into the wealth distribution, business sectors, and demographics of billionaires worldwide.
 
 # b.	Domains and Gender Disparities
 
 ## 2.	Challenges Faced by Female Billionaires
+
 # a.	Perception Challenges
 Female billionaires often encounter prejudices and stereotypes that may question their abilities or legitimacy in traditionally male-dominated industries. Despite evident success or external recognition, woman billionaires could experience persistent self-doubt.
 # b.	Less Investment Opportunities 
@@ -43,6 +45,7 @@ Female billionaires may feel more pressure when it comes to work-life balance as
 Female billionaires who inherit their wealth may face scepticism regarding their entrepreneurial capabilities, with assumptions that their success is solely due to family fortune rather than individual achievement.
 
 ## 3.	Initiative and Movements for change
+
 # a.	Encouragement and Awareness: 
 Advocacy and awareness efforts play a crucial role in addressing gender bias in the realm of billionaires. Also, there is a need to examine the role of corporate policies in fostering gender diversity at executive and board levels.
 # b.	30% Club
