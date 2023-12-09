@@ -4,8 +4,7 @@ Data Scientist Nanodegree : Write a Data Science Blog Post Assignment
 - Installation
 - Project Motivation
 - Explorartory Data Analysis
-- Results
-- Licensing, Authors, and Acknowledgements
+- Blog
 
 ## Installation
 You need to be able to work in a Jupyter Notebook on your computer. The following packages (libraries) need to be installed. You can install these packages via conda or pip.
