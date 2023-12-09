@@ -23,4 +23,5 @@ https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset
 It's a part of my Udacity Nanodegree Project. I was interested in identifying and analysing the Gender Biasness in the world of Billionaires.
 
 [My Medium Blog Link](https://medium.com/@parulgangwar/gender-bias-in-the-world-of-billionaires-c656743cdb71)
+
 [Blog Code Link](https://github.com/parulgangwar/Write_a_Data_Science_Blog_Post/blob/main/Explanatory_analysis.ipynb)
